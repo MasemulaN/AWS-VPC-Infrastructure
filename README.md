@@ -140,7 +140,8 @@ Internet
 The following screenshots are included in the repository as proof of deployment:
 
 - ✅ Custom VPC (`10.0.0.0/16`)
-  <img width="1600" height="900" alt="01-vpc-creation" src="https://github.com/user-attachments/assets/27963388-26a2-436e-913e-bc89346ae77f" />
+  <img width="1600" height="900" alt="24-vpc-overview" src="https://github.com/user-attachments/assets/7d5775e4-a23d-4f86-8a0b-5be2003d8098" />
+
 
 - ✅ Public & Private Subnets
   <img width="1598" height="900" alt="02-public-subnet" src="https://github.com/user-attachments/assets/6403c8ee-1f70-4205-b24f-5667fbb05cda" />
