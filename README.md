@@ -158,7 +158,8 @@ The following screenshots are included in the repository as proof of deployment:
   <img width="1600" height="900" alt="16-nat-gateway-created" src="https://github.com/user-attachments/assets/17067603-c808-4534-b37d-11764df20e9a" />
 
 - ✅ Network ACL Configuration
-  <img width="1599" height="900" alt="25-NACL-OVERVIEW" src="https://github.com/user-attachments/assets/0b8f6767-62d8-4447-aac5-2edaa6c89947" />
+  <img width="1600" height="900" alt="05-network-acls" src="https://github.com/user-attachments/assets/6aa1bc30-71e5-4bfe-9e31-b09b44367735" />
+
 
 - ✅ Security Group Configuration
   <img width="1600" height="900" alt="21-sg-overview" src="https://github.com/user-attachments/assets/e2d0f7ae-e0a5-4ba6-954f-e4368692374a" />
@@ -227,7 +228,7 @@ aws-secure-vpc-infrastructure/
 ├── README.md
 │
 ├── architecture/
-│   ├── aws-architecture-diagram.png
+│   └── aws-secure-vpc-architecture.png
 │
 ├── screenshots/
 │   ├── 01-vpc-created.png
@@ -237,10 +238,11 @@ aws-secure-vpc-infrastructure/
 │   ├── 05-network-acls.png
 │   ├── 06-security-groups.png
 │   ├── 07-nat-gateway.png
-│   ├── 08-ec2-instances.png
-│   ├── 09-bastion-host-ssh.png
+│   ├── 08-bastion-host-instance.png
+│   ├── 09-private-ec2-instance.png
 │   ├── 10-bastion-to-private-ssh.png
 │   └── 11-private-instance-internet-access.png
+│
 └── 
 ```
 
