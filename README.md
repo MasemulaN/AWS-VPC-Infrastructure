@@ -223,7 +223,7 @@ As a result, external users cannot directly establish a connection to the Privat
 ## 📁 Project Structure
 
 ```text
-aws-secure-vpc-infrastructure/
+aws-vpc-infrastructure-project/
 │
 ├── README.md
 │
